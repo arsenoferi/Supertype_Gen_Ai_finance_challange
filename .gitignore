@@ -1,0 +1,5 @@
+# Ignore the chat history database file
+chat_history.db
+
+# Ignore environment variable file
+.env
